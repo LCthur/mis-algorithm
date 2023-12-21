@@ -23,7 +23,7 @@ are required
     ```
     cd pls-2023-group-b
     ```
-3. set up envirionment using `setup.py`
+3. set up environment using `setup.py`
     ```
     pip install -e .
     ```
